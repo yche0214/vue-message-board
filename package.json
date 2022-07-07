@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "axios": "^0.19.2",
-    "moment": "^2.27.0",
+    "moment": "^2.29.4",
     "vue": "^2.5.11",
     "word-color": "^1.2.0"
   },
